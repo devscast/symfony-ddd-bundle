@@ -1,0 +1,18 @@
+{
+    "name": "devscast/ddd-bundle",
+    "description": "toolset for devscast symfony applications",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Devscast\\DddBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bernard-ng",
+            "email": "bernard@devscast.tech"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
